@@ -196,7 +196,9 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
-                    a />
+                  >
+                    Live preview
+                  </a>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
                     Checkout github
                   </button>
