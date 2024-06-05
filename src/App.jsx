@@ -109,7 +109,7 @@ function App() {
                 </p>
                 <div className="flex mt-12 gap-2">
                   <a
-                    href="https://mrmensapparelzone.store/" // Replace with your actual URL
+                    href="https://mrmensapparelzone.store/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -127,7 +127,7 @@ function App() {
                   Responsive HTML/CSS/BOOTSTRAP layout for online buying ticket.</p>
                 <div className="flex gap-2 mt-12">
                   <a
-                    href="https://seeandexplore.online/" // Replace with your actual URL
+                    href="https://seeandexplore.online/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -149,7 +149,7 @@ function App() {
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
-                    href="https://rafael-static-webpage.000webhostapp.com/index.php" // Replace with your actual URL
+                    href="https://rafael-static-webpage.000webhostapp.com/index.php" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -157,13 +157,14 @@ function App() {
                     Live preview
                   </a>
                   <a
-                    href="https://github.com/rafdev133/internweb"
+                    href="https://github.com/rafdev133/internweb" 
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]"
+                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:bg-[#FFA62F] text-center block"
                   >
                     Checkout github
                   </a>
+
                 </div>
               </div>
               <div className="border border-gray-500 rounded-md p-5 flex-1">
@@ -197,7 +198,7 @@ function App() {
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
-                    href="https://rafdev133.github.io/rafdevportfolio/" // Replace with your actual URL
+                    href="https://rafdev133.github.io/rafdevportfolio/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -205,13 +206,14 @@ function App() {
                     Live preview
                   </a>
                   <a
-                    href="https://github.com/rafdev133/rafdevportfolio"
+                    href="https://github.com/rafdev133/rafdevportfolio" 
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]"
+                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:bg-[#FFA62F] text-center block"
                   >
                     Checkout github
                   </a>
+
                 </div>
               </div>
               <div className="border border-gray-500 rounded-md p-5 flex-1">
@@ -235,10 +237,11 @@ function App() {
                     href="https://github.com/rafdev133/petmapping"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]"
+                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:bg-[#FFA62F] text-center block"
                   >
                     Checkout github
                   </a>
+
 
                 </div>
               </div>
