@@ -160,7 +160,7 @@ function App() {
                     href="https://github.com/rafdev133/internweb" 
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
+                    className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
                   >
                     Checkout github
                   </a>
@@ -209,7 +209,7 @@ function App() {
                     href="https://github.com/rafdev133/rafdevportfolio" 
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
+                    className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
                   >
                     Checkout github
                   </a>
@@ -237,7 +237,7 @@ function App() {
                     href="https://github.com/rafdev133/petmapping"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-sm py-3 bg-black text-[#DC5F00] border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
+                    className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
                   >
                     Checkout github
                   </a>
