@@ -191,9 +191,12 @@ function App() {
                   Responsive HTML/TAILWIND CSS/REACT JS layout for my personal portfolio.
                 </p>
                 <div className="flex gap-4 mt-12">
-                  <button className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F]">
-                    Live preview
-                  </button>
+                  <a
+                    href="https://rafdev133.github.io/rafdevportfolio/" // Replace with your actual URL
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                    a />
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
                     Checkout github
                   </button>
@@ -208,9 +211,14 @@ function App() {
                   Responsive HTML/CSS/PHP layout for my capstone project to track their vaccination status of their dog in a barangay.
                 </p>
                 <div className="flex gap-2 mt-12">
-                  <button className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F]">
+                  <a
+                    href="https://dogvacmonitoring.000webhostapp.com/login.php" // Replace with your actual URL
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                  >
                     Live preview
-                  </button>
+                  </a>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
                     Checkout github
                   </button>
