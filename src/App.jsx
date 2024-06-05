@@ -156,9 +156,14 @@ function App() {
                   >
                     Live preview
                   </a>
-                  <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
+                  <a
+                    href="https://github.com/rafdev133/internweb"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                  >
                     Checkout github
-                  </button>
+                  </a>
                 </div>
               </div>
               <div className="border border-gray-500 rounded-md p-5 flex-1">
@@ -199,9 +204,14 @@ function App() {
                   >
                     Live preview
                   </a>
-                  <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
+                  <a
+                    href="https://github.com/rafdev133/rafdevportfolio"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                  >
                     Checkout github
-                  </button>
+                  </a>
                 </div>
               </div>
               <div className="border border-gray-500 rounded-md p-5 flex-1">
@@ -214,16 +224,22 @@ function App() {
                 </p>
                 <div className="flex gap-2 mt-12">
                   <a
-                    href="https://dogvacmonitoring.000webhostapp.com/login.php" // Replace with your actual URL
+                    href="https://dogvacmonitoring.000webhostapp.com/login.php"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
                   >
                     Live preview
                   </a>
-                  <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
+                  <a
+                    href="https://github.com/rafdev133/petmapping"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                  >
                     Checkout github
-                  </button>
+                  </a>
+
                 </div>
               </div>
             </div>
