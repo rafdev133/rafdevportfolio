@@ -109,7 +109,7 @@ function App() {
                 </p>
                 <div className="flex mt-12 gap-2">
                   <a
-                    href="https://mrmensapparelzone.store/" 
+                    href="https://mrmensapparelzone.store/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -127,7 +127,7 @@ function App() {
                   Responsive HTML/CSS/BOOTSTRAP layout for online buying ticket.</p>
                 <div className="flex gap-2 mt-12">
                   <a
-                    href="https://seeandexplore.online/" 
+                    href="https://seeandexplore.online/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -149,7 +149,7 @@ function App() {
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
-                    href="https://rafael-static-webpage.000webhostapp.com/index.php" 
+                    href="https://rafael-static-webpage.000webhostapp.com/index.php"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -157,7 +157,7 @@ function App() {
                     Live preview
                   </a>
                   <a
-                    href="https://github.com/rafdev133/internweb" 
+                    href="https://github.com/rafdev133/internweb"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
@@ -177,12 +177,22 @@ function App() {
                   developer.
                 </p>
                 <div className="flex gap-2 mt-12">
-                  <button className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F]">
+                  <a
+                    href="https://rafdev133.github.io/staticWeb-html-tailwind/index.html"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
+                  >
                     Live preview
-                  </button>
-                  <button className="flex-1 text-sm py-3 border rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00]">
+                  </a>
+                  <a
+                    href="https://github.com/rafdev133/staticWeb-html-tailwind"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
+                  >
                     Checkout github
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -198,7 +208,7 @@ function App() {
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
-                    href="https://rafdev133.github.io/rafdevportfolio/" 
+                    href="https://rafdev133.github.io/rafdevportfolio/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-gradient-to-t bg-[#DC5F00] rounded-full to-cyan-500 hover:from-[#FFA62F] hover:to-[#FFA62F] text-center block"
@@ -206,7 +216,7 @@ function App() {
                     Live preview
                   </a>
                   <a
-                    href="https://github.com/rafdev133/rafdevportfolio" 
+                    href="https://github.com/rafdev133/rafdevportfolio"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 text-sm py-3 bg-black  border border-white rounded-full hover:border-[#DC5F00] hover:text-[#DC5F00] text-center block"
