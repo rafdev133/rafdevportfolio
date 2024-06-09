@@ -104,8 +104,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Clothing Store Landing Page
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive WORDPRESS layout for online clothing for men store.
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent" >
+                  I developed an online store using WordPress and the Blocksy plugin, exclusively featuring men's outfits. The site offers a wide range of clothing options for various occasions with a sleek, modern design that ensures an engaging and seamless shopping experience across all devices. The extensive product catalog is intuitively organized, allowing easy navigation and filtering for customers. Enhanced by secure payment gateways, the checkout process guarantees safe transactions. The website is optimized for search engines to drive organic traffic, and a dedicated blog provides fashion tips, style guides, and the latest trends in men's fashion. Customer reviews and social media integration further enrich the user experience, establishing the brand as a trusted authority in men's fashion.
                 </p>
                 <div className="flex mt-12 gap-2">
                   <a
@@ -123,8 +123,9 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Travel and Tours Website
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive HTML/CSS/BOOTSTRAP layout for online buying ticket.</p>
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent">
+                  In a collaborative effort, I contributed by developing the HTML and Bootstrap components for a travel and tours website built by our team. The website offers a comprehensive platform for travelers, featuring enticing tour packages and travel guides. My focus was on creating a responsive and visually appealing front-end interface using Bootstrap, ensuring seamless usability across various devices. The site includes interactive elements such as image carousels, booking forms, and navigation menus to enhance user experience.This project highlights our team's collective effort in delivering a user-friendly and visually captivating online platform for travel enthusiasts.
+                </p>
                 <div className="flex gap-2 mt-12">
                   <a
                     href="https://seeandexplore.online/"
@@ -143,9 +144,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Static Landing Page
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive HTML/CSS layout for landing page for front-end
-                  developer.
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent">
+                  I created a static landing page using HTML and CSS. This landing page serves as an introduction to a talent agency's services. I used HTML to structure the content and layout of the page, ensuring it's clear and well-organized. CSS was utilized for styling, making the design visually appealing and responsive across various devices. This project showcases my ability to independently design and develop a professional and engaging static landing page.
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
@@ -172,9 +172,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Static Landing Page
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive HTML/TAILWIND CSS layout for landing page for front-end
-                  developer.
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent">
+                  I created a static landing page using HTML and Tailwind CSS. This landing page serves as an introduction to a A,AMT agency's services. I used HTML to structure the content and layout of the page, ensuring it's clear and well-organized. Tailwind CSS was utilized for styling, making the design visually appealing and responsive across various devices. This project showcases my ability to independently design and develop a professional and engaging static landing page while leveraging the power and flexibility of Tailwind CSS.
                 </p>
                 <div className="flex gap-2 mt-12">
                   <a
@@ -203,8 +202,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Personal Portfolio
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive HTML/TAILWIND CSS/REACT JS layout for my personal portfolio.
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent">
+                  I developed a dynamic portfolio website using React.js and Tailwind CSS, featuring sections dedicated to my resume, projects, technologies I use, and an about me page. Leveraging React.js, I created interactive components for seamless navigation, while Tailwind CSS ensured a modern and responsive design across devices. The resume section provides a concise overview of my professional background, while the projects section showcases detailed descriptions and live demos. Additionally, the technologies section highlights my technical skills, and the about me page offers insights into my personality and career aspirations. This project demonstrates my expertise in front-end development and my ability to create user-friendly and visually appealing dynamic websites.
                 </p>
                 <div className="flex gap-4 mt-12">
                   <a
@@ -231,8 +230,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">
                   Dog Vaccination System
                 </h3>
-                <p className="text-gray-400 text-sm mt-2">
-                  Responsive HTML/CSS/PHP layout for my capstone project to track their vaccination status of their dog in a barangay.
+                <p className="text-gray-400 text-sm mt-2 overflow-y-scroll max-h-24 text-indent">
+                  For my capstone project, I developed a comprehensive system using HTML, CSS, Bootstrap for front-end development, PHP for back-end development, and Power BI for dog vaccination monitoring. The front-end interface, developed with HTML, CSS, and Bootstrap, ensures a user-friendly experience with responsive design elements. PHP was utilized for back-end functionalities, enabling secure data processing and management. Power BI was integrated to create visual dashboards for monitoring dog vaccination data, providing insights and analytics in real-time. This project showcases my proficiency in full-stack development and data visualization, addressing practical needs in monitoring and managing dog vaccinations effectively.
                 </p>
                 <div className="flex gap-2 mt-12">
                   <a
@@ -397,17 +396,17 @@ function App() {
           <div>
             <ul className="flex gap-4">
               <li>
-                <a>
+                <a href="https://www.facebook.com/rafael13325" target="_blank">
                   <img src={Facebook} className="w-5" />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="https://www.linkedin.com/in/rafael-porgatorio-5b3246312/" target="_blank">
                   <img src={LinkedIn} className="w-5" />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="https://www.instagram.com/rmstreetapparel/" target="_blank">
                   <img src={Instagram} className="w-5" />
                 </a>
               </li>
