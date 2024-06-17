@@ -24,7 +24,7 @@ function App() {
   }
 
   const previewResume = () => {
-    const googleDriveLink = 'https://drive.google.com/file/d/1HXt--QV4LMZaSBJE2yGoP5tuvznaWx08/view?usp=sharing';
+    const googleDriveLink = 'https://drive.google.com/file/d/1NzsFR8q4Rwg8ZXVbWIHHjesK7EzBkzSO/view?usp=sharing';
     window.open(googleDriveLink, '_blank');
   };
 
